@@ -1,0 +1,33 @@
+*********************************************************
+Title: Bike shop
+Use: To develop a Bike shop web page
+Author: Mike Hansell
+School/Term: Southern Illinois University, Fall 2021
+Developed: September 09, 2021
+Tested: September 11, 2021; Passed on Firefox and Chrome browsers.
+**********************************************************
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+        <meta charset="utf-8">
+        <title>Hansell's Bicycle Shop</title>
+        <meta name="description" content="a simple Bike shop that will get you the bike of your dreams">
+        <meta name="keywords" content="Hansell's, Bicycles, Shop, Bikes">
+    
+</head>
+<body>
+    
+    <p> We have an wide variety of Bikes for you to choose from, including </p>
+    <ol>
+        <li>Racing Bike</li>
+        <li>Mountain bike</li>
+        <li>BMX Bike</li>
+        <li>street bike</li>
+        <li>hybrid bike</li>
+        
+    </ol>    
+        <img src="racing-bycycle-161449_1280.png" alt="Racing Bike" height="70">
+    <p>GO check out the school this is based out of<a href="https://siu.edu/"></a></p>
+    <p>&copy; 2021 Hansell's Bicycles</p>
+</body>
+</html>
